@@ -483,6 +483,7 @@
 				TargetAttributes = {
 					5F928D951C0D469F00EF50C4 = {
 						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0800;
 					};
 					5FAD07631A70F2FC00C4D09E = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -710,6 +711,7 @@
 				PRODUCT_NAME = JSONHelper;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -733,6 +735,7 @@
 				PRODUCT_NAME = JSONHelper;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
